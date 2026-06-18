@@ -2,6 +2,8 @@
 
 ## Architecture
 
+
+
 User
  ↓
 Nginx
@@ -11,6 +13,8 @@ React Frontend
 NodeJS Backend
  ↓
 PostgreSQL
+
+
 
 ## AWS Services Used
 
