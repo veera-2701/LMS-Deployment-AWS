@@ -7,29 +7,29 @@ A full-stack Learning Management System (LMS) deployed on AWS using Docker conta
 ## Architecture
 
 ```text
-                Internet
-                    │
-                    ▼
-                Nginx
-                    │
-                    ▼
-          React Frontend (Port 80)
-                    │
-                    ▼
-         NodeJS Backend (Port 8080)
-                    │
-                    ▼
-       PostgreSQL Database (5432)
+                       Internet
+                          │
+                          ▼
+                        Nginx
+                          │
+                          ▼
+                React Frontend (Port 80)
+                          │
+                          ▼
+                NodeJS Backend (Port 8080)
+                          │
+                          ▼
+                PostgreSQL Database (5432)
 ```
 
 ---
 
 ## Technologies Used
 
-### Frontend
+### Frontend   ### Backend
 
-* ReactJS
-* Vite
+* ReactJS          * NodeJS
+* Vite             * ExpressJS
 
 ### Backend
 
