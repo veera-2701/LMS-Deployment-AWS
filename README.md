@@ -147,23 +147,21 @@ http://<public-ip>:8080/api
 
 ---
 
-## Screenshots
-
 ### Application Home Page
 
-(Add Screenshot)
+![Home](screenshots/home.png)
 
-### Login Page
+### Admin Panel
 
-(Add Screenshot)
-
-### Dashboard
-
-(Add Screenshot)
+![Admin](screenshots/admin.png)
 
 ### Docker Containers
 
-(Add Screenshot)
+![Docker](screenshots/docker.png)
+
+### EC2 Deployment
+
+![Deployment](screenshots/ec2-deployment.png)
 
 ---
 
